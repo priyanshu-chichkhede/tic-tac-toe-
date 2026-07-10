@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Web Application
 
-**[Play it live](https://priyanshu-chichkhede.github.io/tic-tac-toe-/)**
+<a href="https://priyanshu-chichkhede.github.io/tic-tac-toe-/" target="_blank"><b>Play it live</b></a>
 
 A responsive Tic-Tac-Toe game built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries.
 
