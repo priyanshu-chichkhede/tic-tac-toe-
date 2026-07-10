@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Web Application
 
+**[Play it live](https://priyanshu-chichkhede.github.io/tic-tac-toe-/)**
+
 A responsive Tic-Tac-Toe game built with vanilla HTML, CSS, and JavaScript — no frameworks or libraries.
 
 ## Features
